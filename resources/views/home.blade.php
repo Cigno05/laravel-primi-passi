@@ -7,5 +7,16 @@
 </head>
 <body>
     <h1>Hello World</h1>
+    <ol>
+        <li>
+            <a href="./page1">Prima pagina</a>
+        </li>
+        <li>
+            <a href="./page2">Seconda pagina</a>
+        </li>
+        <li>
+            <a href="./page3">Terza pagina</a>
+        </li>
+    </ol>
 </body>
 </html>
